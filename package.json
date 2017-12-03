@@ -22,10 +22,12 @@
   },
   "homepage": "https://github.com/joergdietrich/Leaflet.Terminator#readme",
   "devDependencies": {
-    "leaflet": "^1.2.0",
-    "rollup": "^0.51.7"
+    "leaflet": "^1.2.0"
   },
   "peerDependencies": {
     "leaflet": "^1.2.0"
+  },
+  "dependencies": {
+    "rollup": "github:adrianheine/rollup#master"
   }
 }

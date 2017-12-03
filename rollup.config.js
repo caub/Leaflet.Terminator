@@ -1,5 +1,5 @@
 export default {
-  name: 'L.terminator',
+  name: 'leaflet.terminator',
   input: 'index.js',
   output: {
     file: 'L.Terminator.js',
